@@ -109,7 +109,7 @@ anomaly card, and the resulting action with its trigger reason.
 
 ## Technical report
 
-See `report/report.tex` for the full write-up, including problem framing, data audit, feature
+See `report/report.pdf` for the full write-up, including problem framing, data audit, feature
 engineering, model mathematics, uncertainty analysis, early-warning cost analysis, the decision
 policy, and a dedicated Challenges section.
 
