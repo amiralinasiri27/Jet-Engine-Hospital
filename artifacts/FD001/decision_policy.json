@@ -1,0 +1,9 @@
+{
+  "policy": {
+    "rul_lower_bound_stop": 19.0,
+    "rul_lower_bound_inspect": 57.0,
+    "failure_prob_stop_h10": 0.8,
+    "failure_prob_inspect_h10": 0.1,
+    "anomaly_percentile_inspect": 90.0
+  }
+}

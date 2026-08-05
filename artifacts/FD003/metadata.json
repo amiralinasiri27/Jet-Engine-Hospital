@@ -1,0 +1,6 @@
+{
+  "chosen_rul_model": "gradient_boosting",
+  "chosen_clf_model": "logistic_regression",
+  "chosen_anomaly_detector": "isolation_forest",
+  "rul_interval_std": 13.287278494628762
+}
