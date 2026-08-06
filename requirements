@@ -1,0 +1,10 @@
+# Pin versions once finalized in the notebook, so the HF Space reproduces
+# the exact same environment used for training/evaluation.
+streamlit
+# or: gradio
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+matplotlib
