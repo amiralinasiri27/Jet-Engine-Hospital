@@ -1,10 +1,7 @@
-# Pin versions once finalized in the notebook, so the HF Space reproduces
-# the exact same environment used for training/evaluation.
 streamlit
-# or: gradio
+joblib
 numpy
 pandas
-scikit-learn
+scikit-learn==1.7.2
 scipy
-joblib
 matplotlib
