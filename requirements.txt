@@ -4,7 +4,7 @@ streamlit
 # or: gradio
 numpy
 pandas
-scikit-learn
+scikit-learn==1.7.2
 scipy
 joblib
 matplotlib
